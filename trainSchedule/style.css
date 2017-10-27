@@ -1,0 +1,9 @@
+.jumbotron {
+	text-align: center;
+	background: url(https://68.media.tumblr.com/56f8912680f94cdca2ca21d7da26a4d3/tumblr_nxn29kQhVK1qgohmuo1_500.gif);
+	 background-size: 100% 100%;  
+}
+
+.jumbotron h1, h3{
+	color: white;
+}
